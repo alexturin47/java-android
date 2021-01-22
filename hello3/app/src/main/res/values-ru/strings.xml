@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Привет</string>
+    <string name="hellow">Привет мир</string>
+    <string name="checkbox">Это Чекбокс</string>
+</resources>

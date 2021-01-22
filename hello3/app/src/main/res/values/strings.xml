@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hello</string>
+    <string name="hellow">Hellow World</string>
+    <string name="checkbox">This is CheckBox</string>
+</resources>

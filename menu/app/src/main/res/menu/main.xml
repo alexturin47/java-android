@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/main.add"
+        android:title="Add"
+        android:icon="@drawable/ic_baseline_adb_24"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/main.create"
+        android:title="Create"
+        android:icon="@drawable/ic_baseline_battery_charging_full_24"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/main.del"
+        android:title="Delete"
+        android:icon="@drawable/ic_baseline_beach_access_24"
+        app:showAsAction="ifRoom"
+        />
+</menu>
